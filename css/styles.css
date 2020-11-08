@@ -1,0 +1,166 @@
+.navbar.navbar-light.navbar-expand-md.navbar {
+  background-color: black;
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+}
+
+#navcol-1 {
+  color: white !important;
+  font-family: 'Autour One';
+}
+
+.h1, h1 {
+  text-align: center;
+}
+
+@media (min-width: 460px) {
+  .entry-section {
+    height: 250px;
+    background-color: black;
+    background-image: url("../../assets/img/banner2.png") !important;
+    background-size: 100%;
+  }
+}
+
+.h1, h1 {
+  /*line-height: 250px;*/
+  color: white;
+  font-size: 29px !important;
+}
+
+.present {
+}
+
+.h1, h1 .present-entry {
+  color: black;
+}
+
+.info-1 {
+  color: black !important;
+}
+
+.info-1 h1 {
+  color: black;
+  line-height: 65px;
+  margin-top: 25px;
+}
+
+.info-1 {
+  height: auto;
+}
+
+.btn:not(:disabled):not(.disabled) {
+}
+
+.crear {
+  margin: 0 auto;
+}
+
+.article-clean .intro img {
+  margin-top: 10px;
+}
+
+.h1, h1 {
+  font-family: 'Autour One';
+}
+
+.navbar-light .navbar-brand {
+  font-family: 'Autour One';
+}
+
+.footer {
+  background-color: #150941;
+}
+
+@media (min-width: 737px) {
+  #h1-entry {
+    font-size: 40px !important;
+    color: #FEB614;
+  }
+}
+
+.navbar-light .navbar-brand {
+  color: #FEB614;
+}
+
+#navcol-1 {
+  color: #FEB614;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+  color: white !important;
+}
+
+#entry-div {
+  height: 150px;
+}
+
+@media (min-width: 250px) {
+  #h1-entry {
+    color: #FEB614;
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 250px) {
+  .entry-section {
+    /*background-size: 100%;*/
+    background-image: none;
+    background-color: black;
+    height: 250px;
+  }
+}
+
+.aprender-IA {
+  margin: 0 auto;
+}
+
+.btn.btn-success.btn-block.btn-sm.aprender-IA {
+  width: 14% !important;
+  margin-top: 23px;
+  background-color: #FEB614;
+  color: black;
+  border-color: black;
+  font-family: 'Autour One';
+  padding: 10px;
+}
+
+#entry-div {
+  padding-top: 100px;
+}
+
+@media (min-width: 340px) {
+  .btn.btn-success.btn-block.btn-sm.aprender-IA {
+    width: 50% !important;
+  }
+}
+
+@media (min-width: 550px) {
+  .btn.btn-success.btn-block.btn-sm.aprender-IA {
+    width: 19% !important;
+  }
+}
+
+a {
+  color: black;
+}
+
+.h1, h1 {
+}
+
+#parca-intro {
+  padding: 21px;
+}
+
+div {
+}
+
+#chat {
+  margin-bottom: 50px;
+}
+
